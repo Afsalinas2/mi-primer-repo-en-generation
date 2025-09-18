@@ -4,6 +4,8 @@
 #if __name__=="__main__":
 #  main()
 
+#Calculadora mejorada :)
+
 def suma(a, b):
     return a + b
 
