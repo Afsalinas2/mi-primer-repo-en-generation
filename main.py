@@ -4,7 +4,7 @@
 #if __name__=="__main__":
 #  main()
 
-#Calculadora mejorada :)
+#Calculadora mejorada
 
 def addmultiplenumbers(numeros):
     """Devuelve la suma de una lista de números."""
